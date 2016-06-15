@@ -1,4 +1,4 @@
-Hello world;
-extent;
-Hello my dear friend;
-new change;
+print Hello world;
+print extent;
+print Hello my dear friend;
+print new change;
