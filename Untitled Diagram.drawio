@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T13:34:14.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QIbBbX2iQOrGUBquojPF" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T13:39:11.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YmWu74VwsBT8vfOfUci2" version="20.0.4" type="github">
   <diagram id="I7OJeAxPFiSJ3sLQ8TR0" name="Page-1">
     <mxGraphModel dx="2066" dy="2273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,7 +33,7 @@
             <mxPoint x="320" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fkRU3V8xk3izk2TObypj-16" value="Кофе" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fkRU3V8xk3izk2TObypj-15">
+        <mxCell id="fkRU3V8xk3izk2TObypj-16" value="Кофе (Текст кнопки)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fkRU3V8xk3izk2TObypj-15">
           <mxGeometry x="0.1066" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -57,6 +57,31 @@
             <Array as="points">
               <mxPoint x="60" y="360" />
               <mxPoint x="60" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fkRU3V8xk3izk2TObypj-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fkRU3V8xk3izk2TObypj-22" target="fkRU3V8xk3izk2TObypj-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkRU3V8xk3izk2TObypj-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png;" vertex="1" parent="1">
+          <mxGeometry x="300" y="310" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fkRU3V8xk3izk2TObypj-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fkRU3V8xk3izk2TObypj-12" target="fkRU3V8xk3izk2TObypj-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="300" as="sourcePoint" />
+            <mxPoint x="760" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fkRU3V8xk3izk2TObypj-24" value="Гулять" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="320" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkRU3V8xk3izk2TObypj-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fkRU3V8xk3izk2TObypj-24" target="fkRU3V8xk3izk2TObypj-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="590" as="sourcePoint" />
+            <mxPoint x="390" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="560" />
+              <mxPoint x="480" y="-70" />
             </Array>
           </mxGeometry>
         </mxCell>
