@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T13:04:41.191Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="pPNdxE0dXhix5KGdMgjF" type="github"><diagram id="I7OJeAxPFiSJ3sLQ8TR0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-12T13:34:14.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QIbBbX2iQOrGUBquojPF" version="20.0.4" type="github">
+  <diagram id="I7OJeAxPFiSJ3sLQ8TR0" name="Page-1">
+    <mxGraphModel dx="2066" dy="2273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fkRU3V8xk3izk2TObypj-2" value="Кофе лучше" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <object label="Чай" data="" id="fkRU3V8xk3izk2TObypj-3">
+          <mxCell style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fkRU3V8xk3izk2TObypj-19" target="fkRU3V8xk3izk2TObypj-2">
+            <mxGeometry width="50" height="50" relative="1" as="geometry">
+              <mxPoint x="252.5" y="110" as="sourcePoint" />
+              <mxPoint x="280" y="230" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <mxCell id="fkRU3V8xk3izk2TObypj-12" value="Чай лучше" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkRU3V8xk3izk2TObypj-13" value="Привет!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkRU3V8xk3izk2TObypj-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fkRU3V8xk3izk2TObypj-13" target="fkRU3V8xk3izk2TObypj-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="300" as="sourcePoint" />
+            <mxPoint x="270" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fkRU3V8xk3izk2TObypj-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=-0.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fkRU3V8xk3izk2TObypj-19" target="fkRU3V8xk3izk2TObypj-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="287.03999999999996" y="111.01999999999998" as="sourcePoint" />
+            <mxPoint x="320" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fkRU3V8xk3izk2TObypj-16" value="Кофе" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fkRU3V8xk3izk2TObypj-15">
+          <mxGeometry x="0.1066" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fkRU3V8xk3izk2TObypj-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fkRU3V8xk3izk2TObypj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="300" as="sourcePoint" />
+            <mxPoint x="200" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fkRU3V8xk3izk2TObypj-18" value="Попили" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkRU3V8xk3izk2TObypj-19" value="Что на завтрак?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-10" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fkRU3V8xk3izk2TObypj-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fkRU3V8xk3izk2TObypj-18" target="fkRU3V8xk3izk2TObypj-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="300" as="sourcePoint" />
+            <mxPoint x="760" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="360" />
+              <mxPoint x="60" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
